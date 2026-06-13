@@ -16,10 +16,10 @@ Materia: Programación I
 Aplicación desarrollada en Python para gestionar información de países utilizando archivos CSV. Permite agregar, modificar, buscar, filtrar, ordenar y obtener estadísticas sobre los datos almacenados.
 
 ## Estructura del Proyecto
-├── main.py
-├── paises.csv
-├── README.md
-└── Documentacion.pdf
+- `main.py`: contiene el programa principal y el menú de opciones.
+- `paises.csv`: almacena los datos de los países utilizados por la aplicación.
+- `README.md`: documentación general del proyecto.
+- `Documentacion.pdf`: informe académico y técnico solicitado en la consigna.
 
 ## Instrucciones de Ejecución
 1. Descargar o clonar el repositorio.
