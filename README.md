@@ -61,7 +61,7 @@ El informe académico y técnico correspondiente al Trabajo Práctico Integrador
 [📄 Ver documentación del proyecto](UTN-TUPaD-TPI-Programacion-I.pdf)
 
 ## Link al video demostrativo
-
+https://youtu.be/yLjrON1aTUU
 
 ## Repositorio
 https://github.com/OnlyCuchoo/UTN-TUPaD-TPI-Programacion-I
